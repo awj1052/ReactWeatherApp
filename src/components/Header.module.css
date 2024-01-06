@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(72 72 74);
+}
+
+.header img {
+  margin-top: 6rem;
+  width: 16rem;
+  height: 8rem;
+  object-fit: contain;
+}
+
+.header h1 {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 525;
+  letter-spacing: 0.1em;
+  color: rgb(225, 225, 225);
+}
